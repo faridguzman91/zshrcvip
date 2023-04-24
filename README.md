@@ -1,0 +1,2 @@
+# zshrcvip
+personal zshrc file
